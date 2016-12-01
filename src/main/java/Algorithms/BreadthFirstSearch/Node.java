@@ -1,4 +1,4 @@
-package Algorithms.BreadthFistSearch;
+package Algorithms.BreadthFirstSearch;
 
 import java.util.List;
 
